@@ -1,3 +1,6 @@
+## Download:
+`pnpm dlx giget@latest gh:Teygeta/nuxt-starter-kit#master <my-app-name>`
+
 ## Starter deps:
 ```json
 "dependencies": {
