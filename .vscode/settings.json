@@ -46,5 +46,27 @@
     "scss",
     "pcss",
     "postcss"
-  ]
+  ],
+
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.turbo": true
+  },
+
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.turbo": true,
+    "**/.vercel": true
+  },
+
+  "vue.autoInsert.dotValue": false,
+  "vue.codeActions.enabled": false,
+
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
