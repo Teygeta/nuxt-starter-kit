@@ -1,5 +1,5 @@
 ```
-pnpm dlx giget@latest gh:teygeta/nuxt-starter-kit my-app
+pnpm dlx giget@latest gh:teygeta/nuxt-starter-kit#master my-app
 ```
 
 ### Starter kit:
