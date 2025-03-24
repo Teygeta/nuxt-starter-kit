@@ -4,5 +4,6 @@ import { z } from 'zod'
 export const env = createEnv({
   server: {
     // Define the server environment variables here
+    DATABASE_URL: z.string().url(),
   },
 })
